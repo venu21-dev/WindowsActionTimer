@@ -1,0 +1,17 @@
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\bin\Debug\net8.0-windows\WindowsActionTimer.exe
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\bin\Debug\net8.0-windows\WindowsActionTimer.deps.json
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\bin\Debug\net8.0-windows\WindowsActionTimer.runtimeconfig.json
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\bin\Debug\net8.0-windows\WindowsActionTimer.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\bin\Debug\net8.0-windows\WindowsActionTimer.pdb
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.Form1.resources
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.csproj.GenerateResource.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.AssemblyInfoInputs.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.AssemblyInfo.cs
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.csproj.CoreCompileInputs.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\refint\WindowsActionTimer.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.pdb
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.genruntimeconfig.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\ref\WindowsActionTimer.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WindowsActionTimer\WindowsActionTimer\WindowsActionTimer\obj\Debug\net8.0-windows\WindowsActionTimer.Properties.Resources.resources
